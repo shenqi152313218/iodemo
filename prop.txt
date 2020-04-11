@@ -1,0 +1,1 @@
+sun.boot.library.path=D:\entertainment\jre\1.8\jre\bin
